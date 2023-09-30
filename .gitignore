@@ -1,0 +1,7 @@
+.DS_Store
+.cache
+.idea
+bin/
+lib/
+personal_info/
+pyvenv.cfg
